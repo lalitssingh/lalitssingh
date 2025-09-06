@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalit Singh</h1>
+<h2 align="center">I'm founder of Flemingo prep which aims to prepare students for SAT, TMUA, STEP, AP</h2>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitssingh&label=Profile%20views&color=0e75b6&style=flat" alt="lalitssingh" /> </p>
